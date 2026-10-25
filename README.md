@@ -14,7 +14,7 @@
 
 </div>
 
-hewo! i'm angxl, some smoll dev who loves socks and linux.
+hewo! i'm pawxi, some smoll dev who loves socks and linux.
 
 </div>
 
@@ -29,13 +29,12 @@ info = "pervert faggot"
 icon = "🐇"
 
 [langs]
-fav = "Rust"
-most_used = "Python"
+fav = "PY"
 learning = "C"
 
 [os]
 kernel = "linux"
-flavor = "Debian"
+flavor = "NixOS"
 ```
 
 ## Learning
