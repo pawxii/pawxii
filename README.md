@@ -48,7 +48,8 @@ flavor = "Arch"
 
 ---
 
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tu-dominio.me)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/pawxii_)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tu-usuario)
-byebye. <3
+# MIS REDES
+
+* [X (Twitter)](https://x.com/pawxii_)
+* [YouTube](https://youtube.com/@pawwxii)
+* [itch.io](https://tu-usuario.itch.io)
