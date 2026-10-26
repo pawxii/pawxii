@@ -30,7 +30,7 @@ icon = "🐇"
 
 [langs]
 fav = "Rust"
-most used = "Python"
+most_used = "Python"
 
 [os]
 kernel = "linux"
