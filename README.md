@@ -53,7 +53,4 @@ flavor = "Arch"
 * [X (Twitter)](https://x.com/pawxii_)
 * [YouTube](https://youtube.com/@pawwxii)
 * [itch.io](https://pawxi.itch.io/)
-
----
-
-:3 
+* :3 
